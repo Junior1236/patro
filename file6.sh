@@ -1,2 +1,4 @@
 hi
-changes are done/usr/bin/bash: line 1: Q: command not found
+changes are don
+Hi3456
+e/usr/bin/bash: line 1: Q: command not found
